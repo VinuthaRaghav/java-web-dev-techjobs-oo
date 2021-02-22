@@ -107,7 +107,7 @@ public class Job {
                 "Position Type: " + positionTypeValue + "\n" +
                 "Core Competency: " + coreCompetencyValue + "\n" ;
 
-       return result;
+        return result;
 
     }
 }
